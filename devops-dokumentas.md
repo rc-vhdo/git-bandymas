@@ -12,3 +12,8 @@ dažniau išleisti mažus pakeitimus. Tai ne vienas įrankis, o darbo kultūra i
 
 DevOps leidžia komandai išleisti pakeitimus greičiau ir su mažesne rizika, nes daug žingsnių atlieka automatika.
 Klaidas randame anksti, o ne pas vartotoją.
+
+## Git
+
+git branch -d yra saugus ištrynimas. Komanda ištrins šaką tik jeigu ji yra sujungta su kita šaka.
+git branch -D yra priverstinis ištrynimas. Komanda ištrins šaką bet kokiu atveju.
