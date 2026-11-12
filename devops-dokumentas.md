@@ -15,5 +15,5 @@ Klaidas randame anksti, o ne pas vartotoją.
 
 ## Git
 
-git branch -d yra saugus ištrynimas. Komanda ištrins šaką tik jeigu ji yra sujungta su kita šaka.
-git branch -D yra priverstinis ištrynimas. Komanda ištrins šaką bet kokiu atveju.
+`git branch -d` yra saugus ištrynimas. Komanda ištrins šaką tik jeigu ji yra sujungta su kita šaka.
+`git branch -D` yra priverstinis ištrynimas. Komanda ištrins šaką bet kokiu atveju.
