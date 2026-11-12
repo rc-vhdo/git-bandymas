@@ -7,3 +7,8 @@ dažniau išleisti mažus pakeitimus. Tai ne vienas įrankis, o darbo kultūra i
 
 1. Testai: jei nėra, klaida pasiekia vartotoją
 2. Diegimas: ranka diegiant, galima pamiršti žingsnį ir serveris veiks kitaip nei kompiuteryje.
+
+## Kodėl DevOps
+
+DevOps leidžia komandai išleisti pakeitimus greičiau ir su mažesne rizika, nes daug žingsnių atlieka automatika.
+Klaidas randame anksti, o ne pas vartotoją.
