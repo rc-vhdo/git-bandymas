@@ -1,0 +1,9 @@
+# Kas yra DevOps
+DevOps yra būdas, kaip kūrejai ir sistemų adminitratoriai dirba kartu, kad programa greitai 
+ir saugiai pasiektu vartotoją. Pagrindinė idėja: kuo daugiau žingsnių automatizuoti ir kuo
+dažniau išleisti mažus pakeitimus. Tai ne vienas įrankis, o darbo kultūra ir procesas.
+
+## Kur gali lūžti
+
+1. Testai: jei nėra, klaida pasiekia vartotoją
+2. Diegimas: ranka diegiant, galima pamiršti žingsnį ir serveris veiks kitaip nei kompiuteryje.
