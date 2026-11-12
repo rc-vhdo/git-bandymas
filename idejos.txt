@@ -1,2 +1,3 @@
 idejos
 antra ideju eilute
+antra uzduotis: pridejau dar viena eilute
